@@ -10,8 +10,7 @@ Eğitim ve pratik amaçlıdır.
 - Rastgele kelime üretir
 
 Usage / Kullanım
-1. Python dosyasını çalıştırın.
-2. Alfabenizi {} içinde, virgüllerle ayırarak girin (örnek: {a,b,c}).
-3. Düzenli ifadeyi girin (yalnızca (), +, * kullanın).
-4. Üretilmesini istediğiniz kelime sayısını girin.
-5. Program, kurallara göre rastgele kelimeler üretecektir.
+1. Alfabenizi {} içinde, virgüllerle ayırarak girin (örnek: {a,b,c}).
+2. Düzenli ifadeyi girin (yalnızca (), +, * kullanın).
+3. Üretilmesini istediğiniz kelime sayısını girin.
+4. Program, kurallara göre rastgele kelimeler üretecektir.
